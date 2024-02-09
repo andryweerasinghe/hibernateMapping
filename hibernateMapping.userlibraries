@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: org.antlr:antlr4-runtime:4.13.0">
+    <archive path="/home/naveenandry/.m2/repository/org/antlr/antlr4-runtime/4.13.0/antlr4-runtime-4.13.0.jar" />
+  </library>
+  <library name="Maven: org.eclipse.angus:angus-activation:2.0.0">
+    <archive path="/home/naveenandry/.m2/repository/org/eclipse/angus/angus-activation/2.0.0/angus-activation-2.0.0.jar" />
+  </library>
+  <library name="Maven: org.glassfish.jaxb:txw2:4.0.2">
+    <archive path="/home/naveenandry/.m2/repository/org/glassfish/jaxb/txw2/4.0.2/txw2-4.0.2.jar" />
+  </library>
+  <library name="Maven: com.sun.istack:istack-commons-runtime:4.1.1">
+    <archive path="/home/naveenandry/.m2/repository/com/sun/istack/istack-commons-runtime/4.1.1/istack-commons-runtime-4.1.1.jar" />
+  </library>
+  <library name="Maven: jakarta.inject:jakarta.inject-api:2.0.1">
+    <archive path="/home/naveenandry/.m2/repository/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.jar" />
+  </library>
+  <library name="Maven: org.hibernate.orm:hibernate-core:6.4.2.Final">
+    <archive path="/home/naveenandry/.m2/repository/org/hibernate/orm/hibernate-core/6.4.2.Final/hibernate-core-6.4.2.Final.jar" />
+  </library>
+  <library name="Maven: jakarta.persistence:jakarta.persistence-api:3.1.0">
+    <archive path="/home/naveenandry/.m2/repository/jakarta/persistence/jakarta.persistence-api/3.1.0/jakarta.persistence-api-3.1.0.jar" />
+  </library>
+  <library name="Maven: jakarta.transaction:jakarta.transaction-api:2.0.1">
+    <archive path="/home/naveenandry/.m2/repository/jakarta/transaction/jakarta.transaction-api/2.0.1/jakarta.transaction-api-2.0.1.jar" />
+  </library>
+  <library name="Maven: org.jboss.logging:jboss-logging:3.5.0.Final">
+    <archive path="/home/naveenandry/.m2/repository/org/jboss/logging/jboss-logging/3.5.0.Final/jboss-logging-3.5.0.Final.jar" />
+  </library>
+  <library name="Maven: com.jfoenix:jfoenix:9.0.10">
+    <archive path="/home/naveenandry/.m2/repository/com/jfoenix/jfoenix/9.0.10/jfoenix-9.0.10.jar" />
+  </library>
+  <library name="Maven: com.mysql:mysql-connector-j:8.0.33">
+    <archive path="/home/naveenandry/.m2/repository/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33.jar" />
+  </library>
+  <library name="Maven: com.google.protobuf:protobuf-java:3.21.9">
+    <archive path="/home/naveenandry/.m2/repository/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9.jar" />
+  </library>
+  <library name="Maven: jakarta.xml.bind:jakarta.xml.bind-api:4.0.0">
+    <archive path="/home/naveenandry/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/4.0.0/jakarta.xml.bind-api-4.0.0.jar" />
+  </library>
+  <library name="Maven: jakarta.activation:jakarta.activation-api:2.1.0">
+    <archive path="/home/naveenandry/.m2/repository/jakarta/activation/jakarta.activation-api/2.1.0/jakarta.activation-api-2.1.0.jar" />
+  </library>
+  <library name="Maven: org.glassfish.jaxb:jaxb-runtime:4.0.2">
+    <archive path="/home/naveenandry/.m2/repository/org/glassfish/jaxb/jaxb-runtime/4.0.2/jaxb-runtime-4.0.2.jar" />
+  </library>
+  <library name="Maven: org.glassfish.jaxb:jaxb-core:4.0.2">
+    <archive path="/home/naveenandry/.m2/repository/org/glassfish/jaxb/jaxb-core/4.0.2/jaxb-core-4.0.2.jar" />
+  </library>
+  <library name="Maven: org.hibernate.common:hibernate-commons-annotations:6.0.6.Final">
+    <archive path="/home/naveenandry/.m2/repository/org/hibernate/common/hibernate-commons-annotations/6.0.6.Final/hibernate-commons-annotations-6.0.6.Final.jar" />
+  </library>
+  <library name="Maven: io.smallrye:jandex:3.1.2">
+    <archive path="/home/naveenandry/.m2/repository/io/smallrye/jandex/3.1.2/jandex-3.1.2.jar" />
+  </library>
+  <library name="Maven: com.fasterxml:classmate:1.5.1">
+    <archive path="/home/naveenandry/.m2/repository/com/fasterxml/classmate/1.5.1/classmate-1.5.1.jar" />
+  </library>
+  <library name="Maven: net.bytebuddy:byte-buddy:1.14.7">
+    <archive path="/home/naveenandry/.m2/repository/net/bytebuddy/byte-buddy/1.14.7/byte-buddy-1.14.7.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-graphics:19.0.2.1">
+    <archive path="/home/naveenandry/.m2/repository/org/openjfx/javafx-graphics/19.0.2.1/javafx-graphics-19.0.2.1.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-graphics:linux:19.0.2.1">
+    <archive path="/home/naveenandry/.m2/repository/org/openjfx/javafx-graphics/19.0.2.1/javafx-graphics-19.0.2.1-linux.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-base:19.0.2.1">
+    <archive path="/home/naveenandry/.m2/repository/org/openjfx/javafx-base/19.0.2.1/javafx-base-19.0.2.1.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-base:linux:19.0.2.1">
+    <archive path="/home/naveenandry/.m2/repository/org/openjfx/javafx-base/19.0.2.1/javafx-base-19.0.2.1-linux.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-fxml:19.0.2.1">
+    <archive path="/home/naveenandry/.m2/repository/org/openjfx/javafx-fxml/19.0.2.1/javafx-fxml-19.0.2.1.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-fxml:linux:19.0.2.1">
+    <archive path="/home/naveenandry/.m2/repository/org/openjfx/javafx-fxml/19.0.2.1/javafx-fxml-19.0.2.1-linux.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-controls:19.0.2.1">
+    <archive path="/home/naveenandry/.m2/repository/org/openjfx/javafx-controls/19.0.2.1/javafx-controls-19.0.2.1.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-controls:linux:19.0.2.1">
+    <archive path="/home/naveenandry/.m2/repository/org/openjfx/javafx-controls/19.0.2.1/javafx-controls-19.0.2.1-linux.jar" />
+  </library>
+</eclipse-userlibraries>
+
